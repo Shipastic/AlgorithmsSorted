@@ -1,0 +1,13 @@
+C:\Users\Den\source\repos\SortAlgoritms\SortAlgoritms\bin\Debug\SortAlgoritms.exe.config
+C:\Users\Den\source\repos\SortAlgoritms\SortAlgoritms\bin\Debug\SortAlgoritms.exe
+C:\Users\Den\source\repos\SortAlgoritms\SortAlgoritms\bin\Debug\SortAlgoritms.pdb
+C:\Users\Den\source\repos\SortAlgoritms\SortAlgoritms\obj\Debug\SortAlgoritms.csprojAssemblyReference.cache
+C:\Users\Den\source\repos\SortAlgoritms\SortAlgoritms\obj\Debug\SortAlgoritms.Properties.Resources.resources
+C:\Users\Den\source\repos\SortAlgoritms\SortAlgoritms\obj\Debug\SortAlgoritms.csproj.GenerateResource.cache
+C:\Users\Den\source\repos\SortAlgoritms\SortAlgoritms\obj\Debug\SortAlgoritms.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\SortAlgoritms\SortAlgoritms\obj\Debug\SortAlgoritms.exe
+C:\Users\Den\source\repos\SortAlgoritms\SortAlgoritms\obj\Debug\SortAlgoritms.pdb
+C:\Users\Den\source\repos\SortAlgoritms\SortAlgoritms\bin\Debug\AlgorithmsBaseClass.dll
+C:\Users\Den\source\repos\SortAlgoritms\SortAlgoritms\bin\Debug\AlgorithmsBaseClass.pdb
+C:\Users\Den\source\repos\SortAlgoritms\SortAlgoritms\obj\Debug\SortAlgoritms.Form1.resources
+C:\Users\Den\source\repos\SortAlgoritms\SortAlgoritms\obj\Debug\SortAlgoritms.csproj.CopyComplete

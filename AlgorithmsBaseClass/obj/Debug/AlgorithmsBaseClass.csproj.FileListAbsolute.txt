@@ -1,0 +1,6 @@
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClass\bin\Debug\AlgorithmsBaseClass.dll
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClass\bin\Debug\AlgorithmsBaseClass.pdb
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClass\obj\Debug\AlgorithmsBaseClass.csprojAssemblyReference.cache
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClass\obj\Debug\AlgorithmsBaseClass.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClass\obj\Debug\AlgorithmsBaseClass.dll
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClass\obj\Debug\AlgorithmsBaseClass.pdb

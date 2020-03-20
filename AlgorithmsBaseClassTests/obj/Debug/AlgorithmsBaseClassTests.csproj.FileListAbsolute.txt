@@ -1,0 +1,16 @@
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\bin\Debug\AlgorithmsBaseClassTests.dll
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\bin\Debug\AlgorithmsBaseClassTests.pdb
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\bin\Debug\AlgorithmsBaseClass.dll
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\bin\Debug\AlgorithmsBaseClass.pdb
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\obj\Debug\AlgorithmsBaseClassTests.csprojAssemblyReference.cache
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\obj\Debug\AlgorithmsBaseClassTests.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\obj\Debug\AlgorithmsBaseClassTests.csproj.CopyComplete
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\obj\Debug\AlgorithmsBaseClassTests.dll
+C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClassTests\obj\Debug\AlgorithmsBaseClassTests.pdb
