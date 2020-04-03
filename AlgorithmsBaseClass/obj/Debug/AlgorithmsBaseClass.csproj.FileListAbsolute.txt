@@ -4,3 +4,9 @@ C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClass\obj\Debug\Algorithms
 C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClass\obj\Debug\AlgorithmsBaseClass.csproj.CoreCompileInputs.cache
 C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClass\obj\Debug\AlgorithmsBaseClass.dll
 C:\Users\Den\source\repos\SortAlgoritms\AlgorithmsBaseClass\obj\Debug\AlgorithmsBaseClass.pdb
+C:\Users\Gena\source\repos\SortAlgorithms\AlgorithmsSorted\AlgorithmsBaseClass\bin\Debug\AlgorithmsBaseClass.dll
+C:\Users\Gena\source\repos\SortAlgorithms\AlgorithmsSorted\AlgorithmsBaseClass\bin\Debug\AlgorithmsBaseClass.pdb
+C:\Users\Gena\source\repos\SortAlgorithms\AlgorithmsSorted\AlgorithmsBaseClass\obj\Debug\AlgorithmsBaseClass.csprojAssemblyReference.cache
+C:\Users\Gena\source\repos\SortAlgorithms\AlgorithmsSorted\AlgorithmsBaseClass\obj\Debug\AlgorithmsBaseClass.csproj.CoreCompileInputs.cache
+C:\Users\Gena\source\repos\SortAlgorithms\AlgorithmsSorted\AlgorithmsBaseClass\obj\Debug\AlgorithmsBaseClass.dll
+C:\Users\Gena\source\repos\SortAlgorithms\AlgorithmsSorted\AlgorithmsBaseClass\obj\Debug\AlgorithmsBaseClass.pdb
