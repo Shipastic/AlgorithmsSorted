@@ -24,3 +24,4 @@ C:\Users\Gena\source\repos\SortAlgorithms\AlgorithmsSorted\SortAlgoritms\obj\Deb
 C:\Users\Gena\source\repos\SortAlgorithms\AlgorithmsSorted\SortAlgoritms\obj\Debug\SortAlgoritms.csproj.CopyComplete
 C:\Users\Gena\source\repos\SortAlgorithms\AlgorithmsSorted\SortAlgoritms\obj\Debug\SortAlgoritms.exe
 C:\Users\Gena\source\repos\SortAlgorithms\AlgorithmsSorted\SortAlgoritms\obj\Debug\SortAlgoritms.pdb
+C:\Users\Gena\source\repos\SortAlgorithms\AlgorithmsSorted\SortAlgoritms\obj\Debug\VerticalProgressBar.VerticalProgressBar.resources

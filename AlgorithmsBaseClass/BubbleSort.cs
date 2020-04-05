@@ -9,7 +9,7 @@ namespace AlgorithmsBase
     public class BubbleSort<T> : AlgorithmBase<T> where T: IComparable<T>  // IComparable<T> нужен для использования операторов сравнения <>==  в произвольных типах данных
     {
         //Переопределяем виртуальный метод Sort из базового класса
-        public override void Sort()
+        protected override void MakeSort()
         {
             var count = Items.Count;
 
@@ -25,6 +25,7 @@ namespace AlgorithmsBase
                     //сравниваем a и b, если a > b, то должно вернуть 1
                     if (a.CompareTo(b) == 1)
                     {
+                        CompareCount++;
                         // то делаем перестановку
                         Swap(i, i + 1);
                     }

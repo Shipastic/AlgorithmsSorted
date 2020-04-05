@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Windows.Forms;
 using AlgorithmsBase;
 
@@ -6,41 +7,41 @@ namespace SortAlgoritms
 {
     public partial class Form1 : Form
     {
-        AlgorithmBase<int> algorithms = new BubbleSort<int>();
+        List<SortedItem> items = new List<SortedItem>();
         public Form1()
         {
             InitializeComponent();
         }
-
-        /// <summary>
-        /// добавляет элементы в коллекцию
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void button1_Click(object sender, EventArgs e)
+        private void ButAdd_Click(object sender, EventArgs e)
         {
             //добавляем значения в коллекцию
-            if (int.TryParse(textBox1.Text, out int value))
+            if (int.TryParse(textBoxAdd.Text, out int value))
             {
-                algorithms.Items.Add(value);
-                label1.Text += " " + value;
+                var item = new SortedItem(value);
+                items.Add(item);
+                panel3.Controls.Add(item.ProgressBar);
+                panel3.Controls.Add(item.Label);
             }
+           //очищаем текстовое поле
+            textBoxAdd.Text = "";
         }
 
-        /// <summary>
-        /// Выводит отсортированную коллекцию
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void button2_Click(object sender, EventArgs e)
+        private void ButFill_Click(object sender, EventArgs e)
         {
-            //сортируем коллекцию
-            algorithms.Sort();
-            // выводим отсортированные элементы в label2
-            foreach (var item in algorithms.Items)
+          //заполняем коллекцию необходимым количеством случайных элементов
+            if (int.TryParse(textBoxFill.Text, out int value))
             {
-                label2.Text += " " + item; 
+                var rnd = new Random();
+                for (int i = 0; i < value; i++)
+                {
+                    var item = new SortedItem(rnd.Next());
+                    items.Add(item);
+                    panel3.Controls.Add(item.ProgressBar);
+                    panel3.Controls.Add(item.Label);
+                }
             }
+            //очищаем текстовое поле
+            textBoxFill.Text = "";
         }
     }
 }
